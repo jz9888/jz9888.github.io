@@ -32,10 +32,21 @@ Research Assistant, Department of Civil and Environmental Engineering
 
 ### Awards and Scholarships
 
-- Second class scholarship for excellent freshman　　　　　　　　　　　　　　2016.09
+- Second class scholarship for excellent freshman
 
-- Excellent League Member　　　　　　　　　　　　　　　　　　　　　　　　 2020
-- Outstanding Student Scholarship　　　　　　　　　　　　　　　　　　　　　2017-2020
+  2016.09
+
+  
+
+- Excellent League Member
+
+  2020
+
+  
+
+- Outstanding Student Scholarship
+
+  2017-2020
 
 
 

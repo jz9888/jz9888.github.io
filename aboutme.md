@@ -1,6 +1,7 @@
 ---
 layout: page
 title: About me
+
 ---
 
 My name is Xinyu Zhou(周鑫宇). 
@@ -17,13 +18,11 @@ Research Interests: TO BE CONTINUED...
 
 ### Education
 
-####Southern University of Science and Technology							2016-2020
+#### Southern University of Science and Technology							2016-2020
 
 Bachelor, Department of Computer Science and Engineering
 
-
-
-####UC Irvine																									2019.07-2019.09
+#### UC Irvine																									2019.07-2019.09
 
 Research Assistant, Department of Civil and Environmental Engineering
 

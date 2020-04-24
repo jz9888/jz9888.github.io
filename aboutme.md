@@ -20,11 +20,11 @@ Research Interests: TO BE CONTINUED...
 
 ### Education
 
-#### Southern University of Science and Technology							2016-2020
+#### Southern University of Science and Technology　　　　　　　(2016-2020)
 
 Bachelor, Department of Computer Science and Engineering
 
-#### UC Irvine																									2019.07-2019.09
+#### UC Irvine　　　　　　　　　　　　　　　　　　　　　　　　　　(2019.07-2019.09)
 
 Research Assistant, Department of Civil and Environmental Engineering
 
@@ -32,10 +32,10 @@ Research Assistant, Department of Civil and Environmental Engineering
 
 ### Awards and Scholarships
 
-- Second class scholarship for excellent freshman															2016.09
+- Second class scholarship for excellent freshman　　　　　　　　　　　　　　2016.09
 
-- Excellent League Member																								   2020
-- Outstanding Student Scholarship                                                                                      2017-2020
+- Excellent League Member　　　　　　　　　　　　　　　　　　　　　　　　 2020
+- Outstanding Student Scholarship　　　　　　　　　　　　　　　　　　　　　2017-2020
 
 
 
